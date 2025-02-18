@@ -55,7 +55,7 @@ def is_deal_valid(deal: Dict[str, Any]) -> bool:
     """
     temp = deal.get("temperature", 0)
     hours = deal.get("hours_since_posted", 0)
-    if temp >= 150 and hours < 0.5:
+    if temp >= 150 and hours < 1:
         return True
     if temp >= 300 and hours < 2:
         return True

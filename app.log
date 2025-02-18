@@ -1,0 +1,11 @@
+2025-02-17 19:12:16,735 [INFO] Inicio del proceso de scraping de Promodescuentos Hot.
+2025-02-17 19:12:16,736 [INFO] ====== WebDriver manager ======
+2025-02-17 19:12:17,514 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-17 19:12:17,657 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-17 19:12:17,800 [INFO] Driver [C:\Users\Francisco Javier\.wdm\drivers\chromedriver\win64\133.0.6943.98\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-17 19:12:18,763 [INFO] Revisando 'Hot' Promodescuentos...
+2025-02-17 19:12:23,811 [INFO] No hay ofertas nuevas o mejoradas que cumplan las validaciones.
+2025-02-17 19:12:23,811 [INFO] Esperando 10 min 8 seg...
+
+2025-02-17 19:13:26,406 [INFO] Interrupción manual detectada. Saliendo...
+2025-02-17 19:13:26,409 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None)': /session/0e5d897fe6808dfcfe54933fdaaf3892
